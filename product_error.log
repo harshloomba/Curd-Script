@@ -228,3 +228,32 @@
 2018-07-21 14:16:47,152 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 14:16:47] "[37mGET /product HTTP/1.1[0m" 200 -
 2018-07-21 14:17:01,125 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 14:17:01] "[37mDELETE /product HTTP/1.1[0m" 200 -
 2018-07-21 14:17:03,934 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 14:17:03] "[37mGET /product HTTP/1.1[0m" 200 -
+2018-07-21 19:55:41,405 - werkzeug - INFO -  * Restarting with stat
+2018-07-21 19:55:42,826 - werkzeug - WARNING -  * Debugger is active!
+2018-07-21 19:55:42,837 - werkzeug - INFO -  * Debugger PIN: 138-041-471
+2018-07-21 19:55:42,867 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-07-21 19:55:54,859 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:55:54] "[37mPOST /product HTTP/1.1[0m" 200 -
+2018-07-21 19:55:58,336 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:55:58] "[37mGET /product HTTP/1.1[0m" 200 -
+2018-07-21 19:58:09,957 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Harsh Loomba\\Documents\\Curd-Script\\model.py', reloading
+2018-07-21 19:58:10,065 - werkzeug - INFO -  * Restarting with stat
+2018-07-21 19:58:11,606 - werkzeug - WARNING -  * Debugger is active!
+2018-07-21 19:58:11,634 - werkzeug - INFO -  * Debugger PIN: 138-041-471
+2018-07-21 19:58:11,664 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-07-21 19:58:48,102 - werkzeug - INFO -  * Restarting with stat
+2018-07-21 19:58:49,664 - werkzeug - WARNING -  * Debugger is active!
+2018-07-21 19:58:49,692 - werkzeug - INFO -  * Debugger PIN: 138-041-471
+2018-07-21 19:58:49,721 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-07-21 19:58:58,554 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:58:58] "[37mPOST /product HTTP/1.1[0m" 200 -
+2018-07-21 19:59:01,968 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:59:01] "[37mGET /product HTTP/1.1[0m" 200 -
+2018-07-21 19:59:15,032 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:59:15] "[1m[35mPUT /product HTTP/1.1[0m" 500 -
+2018-07-21 19:59:18,157 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:59:18] "[37mGET /product HTTP/1.1[0m" 200 -
+2018-07-21 19:59:29,100 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:59:29] "[1m[35mPUT /product HTTP/1.1[0m" 500 -
+2018-07-21 19:59:33,658 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:59:33] "[37mGET /product HTTP/1.1[0m" 200 -
+2018-07-21 19:59:44,024 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:59:44] "[37mDELETE /product HTTP/1.1[0m" 200 -
+2018-07-21 19:59:47,379 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:59:47] "[37mGET /product HTTP/1.1[0m" 200 -
+2018-07-21 19:59:51,605 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:59:51] "[37mPOST /product HTTP/1.1[0m" 200 -
+2018-07-21 19:59:54,738 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 19:59:54] "[37mGET /product HTTP/1.1[0m" 200 -
+2018-07-21 20:00:30,878 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 20:00:30] "[1m[35mPUT /product HTTP/1.1[0m" 500 -
+2018-07-21 20:00:33,582 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 20:00:33] "[37mGET /product HTTP/1.1[0m" 200 -
+2018-07-21 20:01:06,745 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 20:01:06] "[1m[35mPUT /product HTTP/1.1[0m" 500 -
+2018-07-21 20:01:09,692 - werkzeug - INFO - 127.0.0.1 - - [21/Jul/2018 20:01:09] "[37mGET /product HTTP/1.1[0m" 200 -
